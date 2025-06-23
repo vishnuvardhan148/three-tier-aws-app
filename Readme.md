@@ -78,5 +78,4 @@ This project demonstrates a production-like **three-tier architecture** on AWS u
 
 ---
 
-## 🔗 LinkedIn Post Coming Soon...
 
